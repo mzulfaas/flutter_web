@@ -24,8 +24,6 @@ class _HomePageState extends State<HomePage> {
   final book3AController = TextEditingController();
   final book4AController = TextEditingController();
 
-  // test
-
   final rackBController = TextEditingController();
   final book1BController = TextEditingController();
   final book2BController = TextEditingController();
